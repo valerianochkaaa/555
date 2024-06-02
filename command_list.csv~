@@ -1,0 +1,65 @@
+    1  CSCDsxcd
+    2  cd HW_10/
+    3  cd HW_10/
+    4  cd HW_10
+    5  cd HW_10
+    6  cd HW_10
+    7  cd /d/
+    8  cd HW_10/
+    9  git clone https://github.com/valerianochkaaa/HW_10.git
+   10  cd HW_10/
+   11  git status
+   12  add text_ignore.txt
+   13  git add text_ignore.txt
+   14  git status
+   15  git add text_ignore.txt
+   16  git status
+   17  git commit
+   18  cd /d/
+   19  cd HW_10/
+   20  cd HW_10/
+   21  status
+   22  git status
+   23  git commid "add a new file"
+   24  git commit "add a new file"
+   25  git commit
+   26  git add
+   27  git status
+   28  git commit
+   29  vim -r /d/HW_10/HW_10/.git/COMMIT_EDITMSG
+   30  git commit -m
+   31  git commit -m "add a new file"
+   32  git status
+   33  git add main_test.txt
+   34  git commit -m "add another new file"
+   35  git branch "develop"
+   36  git add
+   37  git add develop_test.txt
+   38  git commit -m "add one more file"
+   39  git status
+   40  git add .
+   41  git commit -m "changed the file develop_test.txt"
+   42  checkout main
+   43  git checkout main
+   44  help marge
+   45  git checkout develop
+   46  git commit -m "add a new file again"
+   47  git add .
+   48  git commit -m "add a new file again"
+   49  git status
+   50  git add "changed the file".
+   51  git add .
+   52  git commit -m "changed the file"
+   53  git push
+   54  git chekout main
+   55  git checkout main
+   56  help merge
+   57  info merge
+   58  get marge develop
+   59  get merge develop
+   60  git merge develop
+   61  git log
+   62  git reset --hard 61a9db493cb94393e2116f348bb449f46917cc2e 
+   63  git status
+   64  git merge develop
+   65  history > command_list.csv~
